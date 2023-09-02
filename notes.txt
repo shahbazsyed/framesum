@@ -1,0 +1,9 @@
+File descriptions:
+
+1. The folder relevance-jugdments contains the query relevance judgments (qrel) following the TREC format for frame relevance, topic relevance, and argument importance. The scores in the last column can be interpreted as {'definitely-relevant': 3, 'rather-not-relevant': 2, 'rather-relevant': 1, 'definitely-not-relevant': 0}. Substitute 'relevant' by 'important' for the importance qrel file.
+
+2. IRFrame-query-variants.jsonl file contains query variations of frame labels for our unsupervised IR based approach. Each variant has been manually curated from reliable sources to best reflect the different aspects of a frame.
+
+3. main-evaluation-examples-top10-pool.csv contains the items evaluated as part of the main evaluation study on which the results are computed.
+
+Complete code will be released soon as it also includes releasing a large dataset in a suitable format for the analysis.
