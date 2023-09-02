@@ -1,3 +1,3 @@
-### Frame-oriented Extractive Summarization of Argumenative Discussions
+### Frame-oriented Summarization of Argumentative Discussions
 
 Complete code coming soon.
